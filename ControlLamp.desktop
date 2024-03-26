@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Control-Lamp
+Icon=/var/www/html/Iniciar-Lamp/lamp.png
+Exec=python3.10 /var/www/html/Iniciar-Lamp/index.py
+Version=1.0
+Comment=Control de los servicios LAMP
+Terminal=false
+Path=/var/www/html/Iniciar-Lamp
