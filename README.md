@@ -7,4 +7,6 @@ según lo que esté instalado en el equipo. Supongo que esto es evidente, pero e
 
 Solo es necesario iniciar el script con Python3, y a correr.
 
+El archivo .desktop, es un acceso directo para colocarlo en ~/.local/share/applications/ y así poder utilizarlo desde el menú de actividades de Ubuntu. Evidentemente, las rutas que contiene este archivo, que cada uno las actualice según sus necesidades y donde coloque los archivos correspondientes.
+
 Esto todavía hay que actualizarlo para corregir algunos errores menores, pero es totalmente funcional en Ubuntu 22.04 (que es donde lo utilizo)
