@@ -7,4 +7,4 @@ según lo que esté instalado en el equipo. Supongo que esto es evidente, pero e
 
 Solo es necesario iniciar el script con Python3, y a correr.
 
-Esto todavía hay que actualizarlo para corregir algunos errores menores, pero es totalmente funcionan en Ubuntu 22.04 (que es donde lo utilizo)
+Esto todavía hay que actualizarlo para corregir algunos errores menores, pero es totalmente funcional en Ubuntu 22.04 (que es donde lo utilizo)
